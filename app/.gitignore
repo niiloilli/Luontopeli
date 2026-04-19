@@ -1,1 +1,11 @@
+# Firebase
 google-services.json
+app/google-services.json
+
+# Build
+/build
+/app/build
+
+# IDE
+.idea
+*.iml
