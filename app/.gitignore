@@ -3,9 +3,18 @@ google-services.json
 app/google-services.json
 
 # Build
-/build
-/app/build
+/build/
+/app/build/
+
+# Gradle
+.gradle/
+
+# Local config
+local.properties
 
 # IDE
-.idea
+.idea/
 *.iml
+
+# OS
+.DS_Store
